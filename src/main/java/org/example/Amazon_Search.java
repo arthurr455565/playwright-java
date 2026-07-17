@@ -7,7 +7,7 @@ import com.microsoft.playwright.Locator;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
 
-public class Google_Search {
+public class Amazon_Search {
 
     public static void main(String[] args) {
 
